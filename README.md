@@ -1,3 +1,9 @@
+<img src="https://c.gitcoin.co/HW_Polkadot_Banner2x.png" alt="phonefarm logo" title="PhoneFarm"  height="200" />
+
+---
+
+# Hello World! By Polkadot hackathon submissions
+
 - [[ECOSYSTEM CHALLENGE] Using Remix And MetaMask On Moonbeam](https://gitcoin.co/issue/PureStake/gitcoin-hello-world-by-moonbeam/3/100023962)
 
   - [using-remix-and-metamask-on-moonbeam.md](using-remix-and-metamask-on-moonbeam.md)
